@@ -1,0 +1,2 @@
+::1 - - [28/Aug/2017:05:36:08 +0000] "GET /form HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
+::1 - - [28/Aug/2017:05:36:19 +0000] "POST /submit HTTP/1.1" 200 182 "http://localhost:3000/form" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36"
